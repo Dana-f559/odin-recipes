@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(145, 163, 255);
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.image {
+    width: 420px;
+    border: white solid 10px;
+    border-radius: 15px;
+}
+
+.main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main.center {
+    text-align: center;
+}
+
+.list {
+    padding: 10px;
+    border: white solid 5px;
+    border-radius: 15px;
+}
+
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(219, 222, 255);
+    width: 460px;
+    border-radius: 15px;
+    padding: 20px;
+}
